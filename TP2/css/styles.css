@@ -1,0 +1,10 @@
+h3{
+    text-align: center;
+}
+#boton{
+    background-color: #147aff;
+    color: rgb(255, 253, 253);
+    padding: 7px 10px;
+    text-decoration: none;
+    border: none;
+}

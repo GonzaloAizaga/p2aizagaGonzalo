@@ -1,0 +1,3 @@
+Hacer dos cuadros de texto donde pido el id del municipio y el id de la provincia, tiene que ser con un & ya que es obligatorio que ande con los 2
+tiene que andar con Id municipio primero, si el municipio no existe o es null, ahi tiene que buscar el id de la provincia.
+si no encuentra municipio, le muestro solo el nombre de la provincia con alguna leyenda.
